@@ -1,3 +1,14 @@
+# MacOS
+.DS_Store
+
+# final binary
+main
+
+# pytest
+__pychache__/
+env/
+.pytest_cache
+
 # Prerequisites
 *.d
 
